@@ -1,0 +1,60 @@
+
+LESSON 2
+————————
+
+In this lesson you will get to know about:
+
+1- variables
+2- variable types
+3- variable declarations
+@
+1- variables:
+  -----------
+what are variables?
+- variables are storage places that you can store values e.g words, numbers,true and false values and so much more and then refer to them later for use.
+-in the computer world, a variable is a storage location in a computer program.
+@
+ Each variable has a name and holds a value.
+- variables must only start with either a letter or the underscore character(_).
+@
+2- variable types:
+   ---------------------
+in java, a variable has to have a type. For this lesson you will only be taught about four types of variables:
+        
+1- String:
+variables of type string can store words and you have to denote them with (“”) e.g “hello world”.
+@
+2- char:
+char is short for character. variables of type char can store only one a character and you have to denote it with (‘’) e.g ‘c’.
+
+3- int:
+int is short for integer. Variables of type int can store only numbers without any denotations.
+@
+4- boolean: 
+variables of type boolean can store true or false values only without and denotations.
+@
+3- variable declaration:
+  -------------------------
+Declaring variables is like creating sentences. when declaring a variable you have to first identify the type of the variable, then the name of the variable and thenthe value you want to store in that variable. Like any ending of a sentence, you have to end it with a period,
+@
+but in java you have to end it withsemicolon (;).
+@
+Sytanx: 
+(variableType) variable name = value;
+
+example (1):
+ String name = “hello world!”; 
+
+example (2):
+ int number = 18;
+
+example (3):
+ boolean lie = false
+ @
+Glossary:
+---------
+assign: is when you store a value to a variable 
+
+
+  
+

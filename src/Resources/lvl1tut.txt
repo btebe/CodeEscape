@@ -1,0 +1,1 @@
+In java, we use System.out.print("Hello World " + 123); to print text and numbers on the screen and only the elements between the () will appear. The plus + sign is to combine different variable types.

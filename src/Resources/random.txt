@@ -1,0 +1,10 @@
+
+@There are 70 coins and out of which there is one fake coin. Need to detect the fake coin in minimum number of weighing. You have only a weighing scale and you know that the fake coin is lighter. @
+I am not sure if the below simulation of the problem is right or wrong i.e. representing it in a array and doing the comparison as i have done in my code. I am trying to simulate it with a array with all one's
+ except one zero which is considered as fake coin. Below is my code. Please let me know if i have got it wrong. @
+There are 70 coins and out of which there is one fake coin. Need to detect the fake coin in minimum number of weighing. You have only a weighing scale and you know that the fake coin is lighter. @
+I am not sure if the below simulation of the problem is right or wrong i.e. representing it in a array and doing the comparison as i have done in my code. I am trying to simulate it with a array with all one's 
+except one zero which is considered as fake coin. Below is my code. Please let me know if i have got it wrong. @
+There are 70 coins and out of which there is one fake coin. Need to detect the fake coin in minimum number of weighing. You have only a weighing scale and you know that the fake coin is lighter. @
+I am not sure if the below simulation of the problem is right or wrong i.e. representing it in a array and doing the comparison as i have done in my code. I am trying to simulate it with a array with all one's except
+ one zero which is considered as fake coin. Below is my code. Please let me know if i have got it wrong.

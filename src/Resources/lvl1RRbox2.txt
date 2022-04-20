@@ -1,0 +1,1 @@
+This box conatins a message that says: "Java Level...". The rest is scratched off
