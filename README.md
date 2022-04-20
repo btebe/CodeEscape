@@ -23,6 +23,7 @@ This is mine and my groups' capstone project. This is a prototype where it teach
 ![level_select](https://user-images.githubusercontent.com/61168223/164303044-193c45b8-02da-4e3a-ab9d-00f73aa1997b.png)
 
 ![l_1_2_1](https://user-images.githubusercontent.com/61168223/164302809-12ab157c-bacc-43f1-a5d9-035e8a9b2701.png)
+![l_1_2](https://user-images.githubusercontent.com/61168223/164305596-60508bec-076b-4e66-833d-a3614c672619.png)
 
 ![l_2_3](https://user-images.githubusercontent.com/61168223/164302884-a66dcb89-8b71-4616-a609-9fd820afa8bc.png)
 
