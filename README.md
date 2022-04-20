@@ -1,8 +1,8 @@
-# CodeEscape | Capstone project
+# CodeEscape | Capstone project | 2017-2018
 
-#Alert!
+#Notice!
 
-The build versions of this game for mac and windows is sadly no longer working.
+The build versions of this game for mac works for older version of mac.
 
 
 #DEMO
@@ -14,6 +14,7 @@ https://drive.google.com/drive/folders/1jF7iGaV5InHldm_zRnkDfpm4NE2UYbkP?usp=sha
 #Documents
 
 -[CodeEscape-project.docx](https://github.com/btebe/CodeEscape/files/8525238/CodeEscape-project.docx)
+
 -[indepedentStudy.docx](https://github.com/btebe/CodeEscape/files/8525246/indepedentStudy.docx)
 
 
