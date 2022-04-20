@@ -11,6 +11,11 @@ Level three is not shown in the demo, but it is in the game.
 
 https://drive.google.com/drive/folders/1jF7iGaV5InHldm_zRnkDfpm4NE2UYbkP?usp=sharing
 
+#Documents
+
+-[CodeEscape-project.docx](https://github.com/btebe/CodeEscape/files/8525238/CodeEscape-project.docx)
+-[indepedentStudy.docx](https://github.com/btebe/CodeEscape/files/8525246/indepedentStudy.docx)
+
 
 #Description
 
