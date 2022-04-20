@@ -2,7 +2,7 @@
 
 #Notice!
 
-The build versions of this game for mac works for older version of mac.
+The build version of this game for mac works for older version of mac only.
 
 
 #DEMO
