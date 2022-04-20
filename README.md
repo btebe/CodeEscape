@@ -1,4 +1,6 @@
-# CodeEscape | Capstone project | 2017-2018
+# CodeEscape
+
+Capstone project | 2017-2018
 
 #Notice!
 
