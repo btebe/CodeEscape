@@ -7,12 +7,16 @@ The build versions of this game for mac and windows is sadly no longer working.
 
 #DEMO
 
+Level three is not shown in the demo, but it is in the game.
+
 https://drive.google.com/drive/folders/1jF7iGaV5InHldm_zRnkDfpm4NE2UYbkP?usp=sharing
 
 
 #Description
 
 This is mine and my groups' capstone project. This is a prototype where it teaches people with no knowlege of coding background to code java in a game like format. We used Unity platform to create this game. 
+
+
 
 ![begining](https://user-images.githubusercontent.com/61168223/164303089-46c55ef1-bbbc-46cf-83f3-2d546dbe4ff8.png)
 
