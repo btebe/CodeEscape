@@ -1,9 +1,12 @@
 # CodeEscape | Capstone project
 
-#Alert! The build versions of this game for mac and windows is sadly no longer working.
+#Alert!
+
+The build versions of this game for mac and windows is sadly no longer working.
 
 
 #DEMO
+
 https://drive.google.com/drive/folders/1jF7iGaV5InHldm_zRnkDfpm4NE2UYbkP?usp=sharing
 
 
